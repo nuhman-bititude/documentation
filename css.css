@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+    padding: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.div-1{
+    background: rgb(186,183,227);
+background: linear-gradient(90deg, rgb(168, 220, 189) 0%, rgba(156,232,196,1) 12%, rgba(156,185,182,1) 40%, rgb(215, 247, 152) 59%, rgb(210, 169, 223) 89%, rgb(156, 224, 238) 100%);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+html {
+    scroll-behavior:smooth;
+  }
